@@ -1,0 +1,7 @@
+.link {
+    @apply hover:undrline houver: text-pink-500 mr-2 transition-all
+}
+
+.active-link{
+    @apply text-green-600
+}
